@@ -81,37 +81,40 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "PayPal, Inc.",
+        "title": "Director, Product Management",
+        "years": "6.2016 - 12.2022",
         "mainTech": [
-          "Angular 8/9/10"
+          "Product Management"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "AWS",
+          "GCP",
+          "Product Managment",
+          "UX/UI", 
+          "Strategy",
+          "Product Design",
+          "Organizational Design",
+          "Communications",
+          "Marketing",
+          "Agile"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "United States Marine Corps",
+        "title": "Communications Officer",
+        "years": "06.2011 - 08.2015",
         "mainTech": [
-          "Angular 7/8"
+          "Technical Leadership"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Project Managment",
+          "Cybersecurity",
+          "Tactical Data Links",
+          "Satellite Communications",
+          "Radio Communications",
+          "Security+",
+          "Network+"
         ]
       }
     ]
