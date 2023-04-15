@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Heather Holcomb. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hello, I'm Heather - developer and product designer.",
+      "description": "What excites me most about working in software development is creating an experience that solves real problems. Starting with a deep dive into customer research and creating a vision for a product that will make the lives of our users better. I've spent the last 12 years pushing existing technologies past the boundaries of their intended design. From standing up mobile data centers completely off the grid in a remote desert for military operations to creating custom infrastructure solutions to process $1.36 trillion in total payment volume for a leading fintech company. Pursuing new challenges and curiosities has provided me experience across multiple disciplines. I've held roles in product management, technical project management, communications, organizational design, and strategy development. Now, as a software developer, I'm eager to bring my unique background and problem-solving skills to the development process. I'm loving the opportunity to experience product creation in a new way with a new set of skills but with the same curiosity and willingness to take risks.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
