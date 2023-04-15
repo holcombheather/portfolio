@@ -15,7 +15,7 @@
         "startDate": "2023",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
-          "images/portfolio/kidsapp.mp4"
+          "images/portfolio/images/photography/p1.jpg"
         ],
         "url": "bit.ly/40Sa3tF",
         "technologies": [
@@ -34,9 +34,9 @@
         "startDate": "2023",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
-          "images/portfolio/kidsapp.mp4"
+          "images/portfolio/adventure/p2.jpg"
         ],
-        "url": "bit.ly/40Sa3tF",
+        "url": "https://code201d98-team1.github.io/ByteSizeAdventurez/",
         "technologies": [
           {
             "class": "devicon-html-original",
